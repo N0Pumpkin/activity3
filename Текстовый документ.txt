@@ -1,0 +1,2 @@
+with random arrays insertion_sort metod work slowly, while other works better
+with sorted arrays most stable sorted metohd is insertion sort and quickinsertion sort
